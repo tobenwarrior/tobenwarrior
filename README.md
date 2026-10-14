@@ -1,5 +1,7 @@
 ### Hey, I'm Lucas
 
+[![X @tobenwarrior](https://img.shields.io/badge/X-@tobenwarrior-000?style=flat&logo=x)](https://x.com/tobenwarrior)
+
 I build tools for AI agents: model providers, plugins and desktop features for [Hermes Agent](https://github.com/NousResearch/hermes-agent), and my own harness on top of [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness).
 
 Most recently, I built out the Hermes desktop plugin SDK, seven new extension points for plugins, from session-list slots to a sandboxed embed and a backend-to-desktop event bridge. Two of my plugins ship in the official Hermes plugin catalog.

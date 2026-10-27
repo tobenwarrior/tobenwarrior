@@ -12,8 +12,6 @@ I build tools for **AI agents and on-chain investigation** — from evidence-ric
 
 A shared evidence engine powers the **web app, CLI, local API, and MCP server**.
 
-[<img src="https://raw.githubusercontent.com/tobenwarrior/FlowLens/main/docs/images/live-desktop.png" alt="FlowLens wallet tracing workspace showing a funding graph" width="720">](https://github.com/tobenwarrior/FlowLens)
-
 ## 🛠️ More projects
 
 - **[Y Harness](https://github.com/tobenwarrior/y-harness)** — a DeepSeek Harness fork adding ChatGPT through the official Codex app and Nous Portal model providers.

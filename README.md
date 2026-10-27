@@ -2,9 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=1300&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=48&amp;lines=Building+for+humans+and+agents;Following+the+funds%2C+keeping+the+evidence;Making+engineering+workflows+better" alt="Building for humans and agents; following the funds and keeping the evidence; making engineering workflows better" />
-</p>
-
-<p align="center"><a href="https://x.com/tobenwarrior">𝕏 &nbsp; @tobenwarrior</a></p>
+</p><p align="center"><a href="https://x.com/tobenwarrior"><img src="https://img.shields.io/badge/%40tobenwarrior-161B22?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="@tobenwarrior on X" /></a></p>
 
 <p align="center">
   <strong>Building tools for AI agents and on-chain investigation.</strong><br>

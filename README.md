@@ -1,18 +1,31 @@
-# Hey, I'm Lucas 👋
+<h1 align="center">Hi, I'm Lucas 👋</h1>
 
-I build tools for **AI agents and on-chain investigation** — from evidence-rich applications to the infrastructure that helps agents work.
+<p align="center">
+  <strong>Building tools for AI agents and on-chain investigation.</strong><br>
+  Open-source software for people who want to understand and build.
+</p>
 
-## 🔎 Featured: FlowLens
+<p align="center">✦ &nbsp; AI agents &nbsp; · &nbsp; Evidence &nbsp; · &nbsp; Developer tools &nbsp; ✦</p>
 
-**[FlowLens](https://github.com/tobenwarrior/FlowLens)** is an open-source, local-first EVM wallet tracing workspace for people and AI agents. Follow funds through an interactive graph, inspect the evidence behind each connection, and see where coverage is incomplete.
+---
 
-A shared evidence engine powers the **web app, CLI, local API, and MCP server**.
+## 🚀 Selected work
 
-## 🛠️ More projects
+<table>
+<tr>
+<td><strong>🔎 <a href="https://github.com/tobenwarrior/FlowLens">FlowLens</a></strong><br><sub>ON-CHAIN INVESTIGATION</sub></td>
+<td>Trace EVM wallet flows with inspectable evidence. One engine powers the web app, CLI, local API and MCP server.</td>
+</tr>
+<tr>
+<td><strong>🧠 <a href="https://github.com/tobenwarrior/y-harness">Y Harness</a></strong><br><sub>AI AGENT INFRASTRUCTURE</sub></td>
+<td>A DeepSeek Harness fork adding ChatGPT through the official Codex app and Nous Portal model providers.</td>
+</tr>
+<tr>
+<td><strong>🧭 <a href="https://github.com/tobenwarrior/compound-skills">Compound Skills</a></strong><br><sub>ENGINEERING WORKFLOWS</sub></td>
+<td>Code maps and practical workflows for debugging, review and verification in Codex, Cursor and Claude Code.</td>
+</tr>
+</table>
 
-- **[Y Harness](https://github.com/tobenwarrior/y-harness)** — a DeepSeek Harness fork adding ChatGPT through the official Codex app and Nous Portal model providers.
-- **[Compound Skills](https://github.com/tobenwarrior/compound-skills)** — an engineering toolkit for Codex, Cursor and Claude Code, with code maps and workflows for debugging, review and verification.
+## 🤝 Open source
 
-## 🤝 Open-source contributions
-
-**[Hermes Agent](https://github.com/NousResearch/hermes-agent)** — contributed desktop extension infrastructure and group-chat features. [View my pull requests →](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Atobenwarrior)
+Contributed desktop extension infrastructure and group-chat features to **[Hermes Agent](https://github.com/NousResearch/hermes-agent)**. [View my pull requests →](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3Atobenwarrior)
